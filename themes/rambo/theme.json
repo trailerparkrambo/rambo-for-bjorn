@@ -1,0 +1,26 @@
+{
+  "id": "rambo",
+  "name": "RAMBO",
+  "version": "0.1.0",
+  "tagline": "They drew first ping.",
+  "title": "RAMBO",
+
+  "sprites": "sprites",
+  "comments": "comments.json",
+
+  "font": {
+    "file": "fonts/BlackOpsOne-Regular.ttf",
+    "title_size": 13,
+    "large_size": 14,
+    "medium_size": 11,
+    "small_size": 9,
+    "bold_size": 12
+  },
+
+  "hud": {
+    "enabled": true,
+    "battery": true,
+    "cpu_temp": true,
+    "wifi_rssi": true
+  }
+}
